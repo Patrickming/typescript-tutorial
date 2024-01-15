@@ -2,7 +2,7 @@
 - basic.md: 基本用法
 - any.md: any 类型
 - types.md: 类型系统
-- array.md: 数组
+- array.md: 数组 [*]
 - tuple.md: 元组
 - symbol.md: symbol 类型
 - function.md: 函数
